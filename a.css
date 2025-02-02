@@ -3329,7 +3329,7 @@ textarea::-webkit-scrollbar {
 }
 .message__5126c .timestamp_c19a55 {
   text-align: center;
-  color: hsla(0, 0%, 100%, .5)
+  color: var(--main-color)
 }
 .message__5126c .contents_c19a55,
 .message__5126c .messageContent_c19a55 {
